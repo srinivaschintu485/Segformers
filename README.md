@@ -188,4 +188,4 @@ class DisplayCallback(tf.keras.callbacks.Callback):
 
 # Conclusion
 
-That's it! We have have trained and fined tuned the model, Thank you
+We have have trained and fined tuned the model, Thank you
